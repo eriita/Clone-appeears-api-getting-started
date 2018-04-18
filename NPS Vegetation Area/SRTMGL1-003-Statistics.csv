@@ -1,0 +1,2 @@
+File Name,Dataset,aid,Date,Count,Minimum,Maximum,Range,Mean,Standard Deviation,Variance,Upper Quartile,Upper 1.5 IQR,Median,Lower 1.5 IQR,Lower Quartile
+SRTMGL1_003_Band1_doy2000042_aid0001,Band1,aid0001,2000-02-11,6358712.0,294.0,2806.0,"(294.0,2806.0)",1504.7881,496.3563,246369.5456,1808.0,2736.0,1414.0,294.0,1189.0
