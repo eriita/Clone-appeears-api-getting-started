@@ -15,7 +15,7 @@ in Jupyter Notebook format.
 in R Markdown format.  
 
 ## Related Tutorials:
-[Masking, Visualizing, & Plotting AppEEARS Output GeoTIFF Time Series in Python Tutorial](https://git.earthdata.nasa.gov/projects/LPDUR/repos/appeears-tutorials/raw/GeoTIFF_MaskingPlotting/AppEEARS_GeoTIFF_TS.html?at=refs%2Fheads%2Fmaster)  
+[Masking, Visualizing, & Plotting AppEEARS Output GeoTIFF Time Series in Python Tutorial](https://git.earthdata.nasa.gov/projects/LPDUR/repos/appeears-tutorials/raw/GeoTIFF_MaskingPlotting/AppEEARS_GeoTIFF_TS.html?at=refs%2Fheads%2Fmain)  
 [Working with AppEEARS NetCDF-4 Output Data](https://git.earthdata.nasa.gov/projects/LPDUR/repos/appeears-tutorials/browse/)  
 
 ## Author:
